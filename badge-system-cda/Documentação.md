@@ -627,6 +627,6 @@ documentação oficial](https://docs.nestjs.com/).
 
 ---
 
-**Autor**: Guilherme (substitua com seu nome ou equipe)  
+**Autor**: Guilherme 
 **Versão**: 1.0.0  
 **Data de Criação**: 15 de Junho de 2024
